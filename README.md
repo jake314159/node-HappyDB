@@ -5,11 +5,14 @@ Node API that returns a random happy moment from the HappyDB is a corpus of 100,
 ## Run
 
 ```bash
-node src/index.js```
+node src/index.js
+```
 
 This runs the website at
 
-```http://localhost:8080/happy```
+```
+http://localhost:8080/happy
+```
 
 # References
 
