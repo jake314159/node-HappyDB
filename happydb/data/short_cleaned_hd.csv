@@ -1,0 +1,10 @@
+hmid,wid,reflection_period,original_hm,cleaned_hm,modified,num_sentence,ground_truth_category,predicted_category
+27673,2053,24h,I went on a successful date with someone I felt sympathy and connection with.,I went on a successful date with someone I felt sympathy and connection with.,True,1,,affection
+27674,2,24h,I was happy when my son got 90% marks in his examination ,I was happy when my son got 90% marks in his examination ,True,1,,affection
+27675,1936,24h,I went to the gym this morning and did yoga.,I went to the gym this morning and did yoga.,True,1,,exercise
+27676,206,24h,We had a serious talk with some friends of ours who have been flaky lately. They understood and we had a good evening hanging out.,We had a serious talk with some friends of ours who have been flaky lately. They understood and we had a good evening hanging out.,True,2,bonding,bonding
+27677,6227,24h,"I went with grandchildren to butterfly display at Crohn Conservatory
+","I went with grandchildren to butterfly display at Crohn Conservatory
+",True,1,,affection
+27678,45,24h,I meditated last night.,I meditated last night.,True,1,leisure,leisure
+27679,195,24h,"I made a new recipe for peasant bread, and it came out spectacular!","I made a new recipe for peasant bread, and it came out spectacular!",True,1,,achievement

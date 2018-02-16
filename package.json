@@ -1,0 +1,26 @@
+{
+  "name": "node-happydb",
+  "version": "1.0.0",
+  "description": "Node API that returns a random happy moment from the HappyDB is a corpus of 100,000+ crowd-sourced happy moments.",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jake314159/node-HappyDB.git"
+  },
+  "author": "jake314159",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jake314159/node-HappyDB/issues"
+  },
+  "homepage": "https://github.com/jake314159/node-HappyDB/#readme",
+  "dependencies": {
+    "api-quick": "^0.3.3",
+    "csvtojson": "^1.1.9"
+  }
+}
