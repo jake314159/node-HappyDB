@@ -5,13 +5,26 @@ Node API that returns a random happy moment from the HappyDB is a corpus of 100,
 ## Run
 
 ```bash
-node src/index.js
+npm run start-node
+npm run start-react
 ```
 
-This runs the website at
+This runs the api server at:
 
 ```
 http://localhost:8080/happy
+```
+
+And the react app at:
+
+```
+http://localhost:3000/
+```
+
+## Build
+
+```bash
+npm run build
 ```
 
 # References

@@ -1,13 +1,17 @@
 {
   "name": "node-happydb",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Node API that returns a random happy moment from the HappyDB is a corpus of 100,000+ crowd-sourced happy moments.",
   "main": "src/index.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "react-scripts test --env=jsdom",
+    "start-react": "react-scripts start",
+    "start-node": "node server/index.js",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -21,6 +25,9 @@
   "homepage": "https://github.com/jake314159/node-HappyDB/#readme",
   "dependencies": {
     "api-quick": "^0.3.3",
-    "csvtojson": "^1.1.9"
+    "csvtojson": "^1.1.9",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
   }
 }
